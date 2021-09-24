@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/bin/Debug/net5.0/AboutAbstract.deps.json
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/bin/Debug/net5.0/AboutAbstract.runtimeconfig.json
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/bin/Debug/net5.0/AboutAbstract.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/bin/Debug/net5.0/AboutAbstract.dll
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/bin/Debug/net5.0/ref/AboutAbstract.dll
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/bin/Debug/net5.0/AboutAbstract.pdb
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/obj/Debug/net5.0/AboutAbstract.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/obj/Debug/net5.0/AboutAbstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/obj/Debug/net5.0/AboutAbstract.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/obj/Debug/net5.0/AboutAbstract.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/obj/Debug/net5.0/AboutAbstract.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/obj/Debug/net5.0/AboutAbstract.dll
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/obj/Debug/net5.0/ref/AboutAbstract.dll
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/obj/Debug/net5.0/AboutAbstract.pdb
+/Users/jeongminwoo/Projects/AbstractInterface/AboutAbstract/obj/Debug/net5.0/AboutAbstract.genruntimeconfig.cache

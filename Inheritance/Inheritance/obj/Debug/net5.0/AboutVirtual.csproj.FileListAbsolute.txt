@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/AboutVirtual.deps.json
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/AboutVirtual.runtimeconfig.json
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/AboutVirtual.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/AboutVirtual.dll
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/ref/AboutVirtual.dll
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/AboutVirtual.pdb
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/AboutVirtual.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/AboutVirtual.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/AboutVirtual.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/AboutVirtual.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/AboutVirtual.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/AboutVirtual.dll
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/ref/AboutVirtual.dll
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/AboutVirtual.pdb
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/AboutVirtual.genruntimeconfig.cache

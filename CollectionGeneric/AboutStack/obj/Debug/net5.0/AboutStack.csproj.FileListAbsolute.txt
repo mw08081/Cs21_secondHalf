@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/bin/Debug/net5.0/AboutStack.deps.json
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/bin/Debug/net5.0/AboutStack.runtimeconfig.json
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/bin/Debug/net5.0/AboutStack.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/bin/Debug/net5.0/AboutStack.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/bin/Debug/net5.0/ref/AboutStack.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/bin/Debug/net5.0/AboutStack.pdb
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/obj/Debug/net5.0/AboutStack.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/obj/Debug/net5.0/AboutStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/obj/Debug/net5.0/AboutStack.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/obj/Debug/net5.0/AboutStack.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/obj/Debug/net5.0/AboutStack.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/obj/Debug/net5.0/AboutStack.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/obj/Debug/net5.0/ref/AboutStack.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/obj/Debug/net5.0/AboutStack.pdb
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutStack/obj/Debug/net5.0/AboutStack.genruntimeconfig.cache

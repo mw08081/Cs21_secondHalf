@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jeongminwoo/Desktop/Projects/CS/CollectionGeneric/AboutStack/AboutStack.csproj": {}
+  },
+  "projects": {
+    "/Users/jeongminwoo/Desktop/Projects/CS/CollectionGeneric/AboutStack/AboutStack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jeongminwoo/Desktop/Projects/CS/CollectionGeneric/AboutStack/AboutStack.csproj",
+        "projectName": "AboutStack",
+        "projectPath": "/Users/jeongminwoo/Desktop/Projects/CS/CollectionGeneric/AboutStack/AboutStack.csproj",
+        "packagesPath": "/Users/jeongminwoo/.nuget/packages/",
+        "outputPath": "/Users/jeongminwoo/Desktop/Projects/CS/CollectionGeneric/AboutStack/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jeongminwoo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

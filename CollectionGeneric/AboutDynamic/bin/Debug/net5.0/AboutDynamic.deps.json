@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AboutDynamic/1.0.0": {
+        "runtime": {
+          "AboutDynamic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AboutDynamic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

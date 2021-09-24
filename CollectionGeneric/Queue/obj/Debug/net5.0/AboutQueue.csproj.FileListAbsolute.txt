@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/bin/Debug/net5.0/AboutQueue.deps.json
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/bin/Debug/net5.0/AboutQueue.runtimeconfig.json
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/bin/Debug/net5.0/AboutQueue.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/bin/Debug/net5.0/AboutQueue.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/bin/Debug/net5.0/ref/AboutQueue.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/bin/Debug/net5.0/AboutQueue.pdb
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/obj/Debug/net5.0/AboutQueue.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/obj/Debug/net5.0/AboutQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/obj/Debug/net5.0/AboutQueue.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/obj/Debug/net5.0/AboutQueue.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/obj/Debug/net5.0/AboutQueue.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/obj/Debug/net5.0/AboutQueue.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/obj/Debug/net5.0/ref/AboutQueue.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/obj/Debug/net5.0/AboutQueue.pdb
+/Users/jeongminwoo/Projects/CollectionGeneric/Queue/obj/Debug/net5.0/AboutQueue.genruntimeconfig.cache

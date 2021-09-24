@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/bin/Debug/net5.0/AboutDelegate.deps.json
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/bin/Debug/net5.0/AboutDelegate.runtimeconfig.json
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/bin/Debug/net5.0/AboutDelegate.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/bin/Debug/net5.0/AboutDelegate.dll
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/bin/Debug/net5.0/ref/AboutDelegate.dll
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/bin/Debug/net5.0/AboutDelegate.pdb
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/obj/Debug/net5.0/AboutDelegate.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/obj/Debug/net5.0/AboutDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/obj/Debug/net5.0/AboutDelegate.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/obj/Debug/net5.0/AboutDelegate.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/obj/Debug/net5.0/AboutDelegate.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/obj/Debug/net5.0/AboutDelegate.dll
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/obj/Debug/net5.0/ref/AboutDelegate.dll
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/obj/Debug/net5.0/AboutDelegate.pdb
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutDelegate/obj/Debug/net5.0/AboutDelegate.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/bin/Debug/net5.0/ClassAsIsKeyword.deps.json
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/bin/Debug/net5.0/ClassAsIsKeyword.runtimeconfig.json
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/bin/Debug/net5.0/ClassAsIsKeyword.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/bin/Debug/net5.0/ClassAsIsKeyword.dll
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/bin/Debug/net5.0/ref/ClassAsIsKeyword.dll
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/bin/Debug/net5.0/ClassAsIsKeyword.pdb
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/obj/Debug/net5.0/ClassAsIsKeyword.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/obj/Debug/net5.0/ClassAsIsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/obj/Debug/net5.0/ClassAsIsKeyword.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/obj/Debug/net5.0/ClassAsIsKeyword.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/obj/Debug/net5.0/ClassAsIsKeyword.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/obj/Debug/net5.0/ClassAsIsKeyword.dll
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/obj/Debug/net5.0/ref/ClassAsIsKeyword.dll
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/obj/Debug/net5.0/ClassAsIsKeyword.pdb
+/Users/jeongminwoo/Projects/Inheritance/ClassAsIsKeyword/obj/Debug/net5.0/ClassAsIsKeyword.genruntimeconfig.cache

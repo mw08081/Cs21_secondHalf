@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/bin/Debug/net5.0/AboutCustomException.deps.json
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/bin/Debug/net5.0/AboutCustomException.runtimeconfig.json
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/bin/Debug/net5.0/AboutCustomException.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/bin/Debug/net5.0/AboutCustomException.dll
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/bin/Debug/net5.0/ref/AboutCustomException.dll
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/bin/Debug/net5.0/AboutCustomException.pdb
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/obj/Debug/net5.0/AboutCustomException.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/obj/Debug/net5.0/AboutCustomException.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/obj/Debug/net5.0/AboutCustomException.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/obj/Debug/net5.0/AboutCustomException.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/obj/Debug/net5.0/AboutCustomException.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/obj/Debug/net5.0/AboutCustomException.dll
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/obj/Debug/net5.0/ref/AboutCustomException.dll
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/obj/Debug/net5.0/AboutCustomException.pdb
+/Users/jeongminwoo/Projects/Exception/AboutCustomException/obj/Debug/net5.0/AboutCustomException.genruntimeconfig.cache

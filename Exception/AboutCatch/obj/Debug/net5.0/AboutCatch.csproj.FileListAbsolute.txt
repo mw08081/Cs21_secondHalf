@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/Exception/AboutCatch/bin/Debug/net5.0/AboutCatch.deps.json
+/Users/jeongminwoo/Projects/Exception/AboutCatch/bin/Debug/net5.0/AboutCatch.runtimeconfig.json
+/Users/jeongminwoo/Projects/Exception/AboutCatch/bin/Debug/net5.0/AboutCatch.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/Exception/AboutCatch/bin/Debug/net5.0/AboutCatch.dll
+/Users/jeongminwoo/Projects/Exception/AboutCatch/bin/Debug/net5.0/ref/AboutCatch.dll
+/Users/jeongminwoo/Projects/Exception/AboutCatch/bin/Debug/net5.0/AboutCatch.pdb
+/Users/jeongminwoo/Projects/Exception/AboutCatch/obj/Debug/net5.0/AboutCatch.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/Exception/AboutCatch/obj/Debug/net5.0/AboutCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/Exception/AboutCatch/obj/Debug/net5.0/AboutCatch.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/Exception/AboutCatch/obj/Debug/net5.0/AboutCatch.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/Exception/AboutCatch/obj/Debug/net5.0/AboutCatch.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/Exception/AboutCatch/obj/Debug/net5.0/AboutCatch.dll
+/Users/jeongminwoo/Projects/Exception/AboutCatch/obj/Debug/net5.0/ref/AboutCatch.dll
+/Users/jeongminwoo/Projects/Exception/AboutCatch/obj/Debug/net5.0/AboutCatch.pdb
+/Users/jeongminwoo/Projects/Exception/AboutCatch/obj/Debug/net5.0/AboutCatch.genruntimeconfig.cache

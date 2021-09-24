@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CH1_Delegate/1.0.0": {
+        "runtime": {
+          "CH1_Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH1_Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

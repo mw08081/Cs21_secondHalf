@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/bin/Debug/net5.0/CH3_Event.deps.json
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/bin/Debug/net5.0/CH3_Event.runtimeconfig.json
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/bin/Debug/net5.0/CH3_Event.runtimeconfig.dev.json
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/bin/Debug/net5.0/CH3_Event.dll
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/bin/Debug/net5.0/ref/CH3_Event.dll
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/bin/Debug/net5.0/CH3_Event.pdb
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/obj/Debug/net5.0/CH3_Event.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/obj/Debug/net5.0/CH3_Event.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/obj/Debug/net5.0/CH3_Event.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/obj/Debug/net5.0/CH3_Event.AssemblyInfo.cs
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/obj/Debug/net5.0/CH3_Event.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/obj/Debug/net5.0/CH3_Event.dll
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/obj/Debug/net5.0/ref/CH3_Event.dll
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/obj/Debug/net5.0/CH3_Event.pdb
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH3_Event/obj/Debug/net5.0/CH3_Event.genruntimeconfig.cache

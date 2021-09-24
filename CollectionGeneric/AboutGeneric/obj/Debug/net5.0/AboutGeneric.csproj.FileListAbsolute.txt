@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/bin/Debug/net5.0/AboutGeneric.deps.json
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/bin/Debug/net5.0/AboutGeneric.runtimeconfig.json
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/bin/Debug/net5.0/AboutGeneric.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/bin/Debug/net5.0/AboutGeneric.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/bin/Debug/net5.0/ref/AboutGeneric.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/bin/Debug/net5.0/AboutGeneric.pdb
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/obj/Debug/net5.0/AboutGeneric.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/obj/Debug/net5.0/AboutGeneric.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/obj/Debug/net5.0/AboutGeneric.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/obj/Debug/net5.0/AboutGeneric.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/obj/Debug/net5.0/AboutGeneric.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/obj/Debug/net5.0/AboutGeneric.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/obj/Debug/net5.0/ref/AboutGeneric.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/obj/Debug/net5.0/AboutGeneric.pdb
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutGeneric/obj/Debug/net5.0/AboutGeneric.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{99951D44-C2DF-431D-94EB-74ED33BF5B1C}|Default">
+  <MonoDevelop.Ide.ItemProperties.AboutStack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Queue/Program.cs">
+    <Files>
+      <File FileName="Queue/Program.cs" Line="24" Column="40" />
+      <File FileName="AboutStack/Program.cs" Line="1" Column="1" />
+      <File FileName="AboutGeneric/Program.cs" />
+      <File FileName="AboutDynamic/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CollectionGeneric" expanded="True">
+            <Node name="AboutDynamic" expanded="True" />
+            <Node name="AboutGeneric" expanded="True" />
+            <Node name="AboutQueue" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="AboutStack" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AboutDynamic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AboutGeneric PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AboutQueue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

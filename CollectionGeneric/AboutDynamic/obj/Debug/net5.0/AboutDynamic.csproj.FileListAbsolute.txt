@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/bin/Debug/net5.0/AboutDynamic.deps.json
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/bin/Debug/net5.0/AboutDynamic.runtimeconfig.json
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/bin/Debug/net5.0/AboutDynamic.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/bin/Debug/net5.0/AboutDynamic.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/bin/Debug/net5.0/ref/AboutDynamic.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/bin/Debug/net5.0/AboutDynamic.pdb
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/obj/Debug/net5.0/AboutDynamic.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/obj/Debug/net5.0/AboutDynamic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/obj/Debug/net5.0/AboutDynamic.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/obj/Debug/net5.0/AboutDynamic.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/obj/Debug/net5.0/AboutDynamic.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/obj/Debug/net5.0/AboutDynamic.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/obj/Debug/net5.0/ref/AboutDynamic.dll
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/obj/Debug/net5.0/AboutDynamic.pdb
+/Users/jeongminwoo/Projects/CollectionGeneric/AboutDynamic/obj/Debug/net5.0/AboutDynamic.genruntimeconfig.cache

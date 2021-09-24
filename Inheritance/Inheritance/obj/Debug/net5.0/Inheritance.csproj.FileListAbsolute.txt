@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/ref/Inheritance.dll
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/Users/jeongminwoo/Projects/Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache

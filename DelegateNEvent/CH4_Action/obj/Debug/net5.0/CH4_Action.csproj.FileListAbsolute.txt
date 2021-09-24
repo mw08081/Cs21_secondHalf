@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/bin/Debug/net5.0/CH4_Action.deps.json
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/bin/Debug/net5.0/CH4_Action.runtimeconfig.json
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/bin/Debug/net5.0/CH4_Action.runtimeconfig.dev.json
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/bin/Debug/net5.0/CH4_Action.dll
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/bin/Debug/net5.0/ref/CH4_Action.dll
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/bin/Debug/net5.0/CH4_Action.pdb
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/obj/Debug/net5.0/CH4_Action.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/obj/Debug/net5.0/CH4_Action.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/obj/Debug/net5.0/CH4_Action.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/obj/Debug/net5.0/CH4_Action.AssemblyInfo.cs
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/obj/Debug/net5.0/CH4_Action.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/obj/Debug/net5.0/CH4_Action.dll
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/obj/Debug/net5.0/ref/CH4_Action.dll
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/obj/Debug/net5.0/CH4_Action.pdb
+/Users/jeongminwoo/Desktop/Projects/CS/DelegateNEvent/CH4_Action/obj/Debug/net5.0/CH4_Action.genruntimeconfig.cache

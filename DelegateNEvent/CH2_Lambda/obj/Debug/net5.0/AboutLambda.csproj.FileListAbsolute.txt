@@ -1,0 +1,15 @@
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/bin/Debug/net5.0/AboutLambda.deps.json
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/bin/Debug/net5.0/AboutLambda.runtimeconfig.json
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/bin/Debug/net5.0/AboutLambda.runtimeconfig.dev.json
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/bin/Debug/net5.0/AboutLambda.dll
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/bin/Debug/net5.0/ref/AboutLambda.dll
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/bin/Debug/net5.0/AboutLambda.pdb
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/obj/Debug/net5.0/AboutLambda.csproj.AssemblyReference.cache
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/obj/Debug/net5.0/AboutLambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/obj/Debug/net5.0/AboutLambda.AssemblyInfoInputs.cache
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/obj/Debug/net5.0/AboutLambda.AssemblyInfo.cs
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/obj/Debug/net5.0/AboutLambda.csproj.CoreCompileInputs.cache
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/obj/Debug/net5.0/AboutLambda.dll
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/obj/Debug/net5.0/ref/AboutLambda.dll
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/obj/Debug/net5.0/AboutLambda.pdb
+/Users/jeongminwoo/Projects/DelegateNEvent/AboutLambda/obj/Debug/net5.0/AboutLambda.genruntimeconfig.cache
