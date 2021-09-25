@@ -1,4 +1,4 @@
-# C#공부 21년 후반기
+# C#21_secondHalf
 
 ## Inheritance(상속)
 1. AboutInheritance - 상속의 기본적인 개념
