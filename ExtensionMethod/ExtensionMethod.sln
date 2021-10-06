@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethod", "ExtensionMethod\ExtensionMethod.csproj", "{75A8A366-D879-4BBC-9A1A-78EE806B2385}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructExtensionMethod", "StructExtensionMethod\StructExtensionMethod.csproj", "{012E0C00-4C5A-43C9-9E10-524964027147}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassExtensionMethod", "ClassExtensionMethod\ClassExtensionMethod.csproj", "{D86DF49C-3336-4518-AA89-98C9368906E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{75A8A366-D879-4BBC-9A1A-78EE806B2385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75A8A366-D879-4BBC-9A1A-78EE806B2385}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75A8A366-D879-4BBC-9A1A-78EE806B2385}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75A8A366-D879-4BBC-9A1A-78EE806B2385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012E0C00-4C5A-43C9-9E10-524964027147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012E0C00-4C5A-43C9-9E10-524964027147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012E0C00-4C5A-43C9-9E10-524964027147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012E0C00-4C5A-43C9-9E10-524964027147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86DF49C-3336-4518-AA89-98C9368906E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86DF49C-3336-4518-AA89-98C9368906E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86DF49C-3336-4518-AA89-98C9368906E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86DF49C-3336-4518-AA89-98C9368906E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

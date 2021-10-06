@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\ExtensionMethod\\ClassExtensionMethod.csproj",
-      "projectName": "ClassExtensionMethod",
-      "projectPath": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\ExtensionMethod\\ClassExtensionMethod.csproj",
+      "projectUniqueName": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\StructExtensionMethod\\StructExtensionMethod.csproj",
+      "projectName": "StructExtensionMethod",
+      "projectPath": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\StructExtensionMethod\\StructExtensionMethod.csproj",
       "packagesPath": "C:\\Users\\COM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\ExtensionMethod\\obj\\",
+      "outputPath": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\StructExtensionMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\COM\\AppData\\Roaming\\NuGet\\NuGet.Config",

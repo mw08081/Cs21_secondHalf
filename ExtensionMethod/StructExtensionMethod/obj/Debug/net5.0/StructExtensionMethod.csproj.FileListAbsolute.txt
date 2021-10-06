@@ -1,0 +1,16 @@
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\bin\Debug\net5.0\StructExtensionMethod.exe
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\bin\Debug\net5.0\StructExtensionMethod.deps.json
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\bin\Debug\net5.0\StructExtensionMethod.runtimeconfig.json
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\bin\Debug\net5.0\StructExtensionMethod.runtimeconfig.dev.json
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\bin\Debug\net5.0\StructExtensionMethod.dll
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\bin\Debug\net5.0\ref\StructExtensionMethod.dll
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\bin\Debug\net5.0\StructExtensionMethod.pdb
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\obj\Debug\net5.0\StructExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\obj\Debug\net5.0\StructExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\obj\Debug\net5.0\StructExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\obj\Debug\net5.0\StructExtensionMethod.AssemblyInfo.cs
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\obj\Debug\net5.0\StructExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\obj\Debug\net5.0\StructExtensionMethod.dll
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\obj\Debug\net5.0\ref\StructExtensionMethod.dll
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\obj\Debug\net5.0\StructExtensionMethod.pdb
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\StructExtensionMethod\obj\Debug\net5.0\StructExtensionMethod.genruntimeconfig.cache

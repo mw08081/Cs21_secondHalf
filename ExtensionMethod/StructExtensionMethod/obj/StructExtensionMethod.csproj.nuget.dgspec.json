@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\StructExtensionMethod\\StructExtensionMethod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\StructExtensionMethod\\StructExtensionMethod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\StructExtensionMethod\\StructExtensionMethod.csproj",
+        "projectName": "StructExtensionMethod",
+        "projectPath": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\StructExtensionMethod\\StructExtensionMethod.csproj",
+        "packagesPath": "C:\\Users\\COM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\ExtensionMethod\\StructExtensionMethod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\COM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

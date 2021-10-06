@@ -1,0 +1,15 @@
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\bin\Debug\net5.0\ClassExtensionMethod.exe
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\bin\Debug\net5.0\ClassExtensionMethod.deps.json
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\bin\Debug\net5.0\ClassExtensionMethod.runtimeconfig.json
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\bin\Debug\net5.0\ClassExtensionMethod.runtimeconfig.dev.json
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\bin\Debug\net5.0\ClassExtensionMethod.dll
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\bin\Debug\net5.0\ref\ClassExtensionMethod.dll
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\bin\Debug\net5.0\ClassExtensionMethod.pdb
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\obj\Debug\net5.0\ClassExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\obj\Debug\net5.0\ClassExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\obj\Debug\net5.0\ClassExtensionMethod.AssemblyInfo.cs
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\obj\Debug\net5.0\ClassExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\obj\Debug\net5.0\ClassExtensionMethod.dll
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\obj\Debug\net5.0\ref\ClassExtensionMethod.dll
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\obj\Debug\net5.0\ClassExtensionMethod.pdb
+C:\Users\COM\Desktop\project\cs\cs21_sH\Cs21_secondHalf\ExtensionMethod\ClassExtensionMethod\obj\Debug\net5.0\ClassExtensionMethod.genruntimeconfig.cache
