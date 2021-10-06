@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeongminwoo/Desktop/Projects/CS/AbstractInterface/AboutInterface/AboutInterface.csproj": {}
+    "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\AbstractInterface\\AboutInterface\\AboutInterface.csproj": {}
   },
   "projects": {
-    "/Users/jeongminwoo/Desktop/Projects/CS/AbstractInterface/AboutInterface/AboutInterface.csproj": {
+    "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\AbstractInterface\\AboutInterface\\AboutInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeongminwoo/Desktop/Projects/CS/AbstractInterface/AboutInterface/AboutInterface.csproj",
+        "projectUniqueName": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\AbstractInterface\\AboutInterface\\AboutInterface.csproj",
         "projectName": "AboutInterface",
-        "projectPath": "/Users/jeongminwoo/Desktop/Projects/CS/AbstractInterface/AboutInterface/AboutInterface.csproj",
-        "packagesPath": "/Users/jeongminwoo/.nuget/packages/",
-        "outputPath": "/Users/jeongminwoo/Desktop/Projects/CS/AbstractInterface/AboutInterface/obj/",
+        "projectPath": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\AbstractInterface\\AboutInterface\\AboutInterface.csproj",
+        "packagesPath": "C:\\Users\\COM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\COM\\Desktop\\project\\cs\\cs21_sH\\Cs21_secondHalf\\AbstractInterface\\AboutInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jeongminwoo/.config/NuGet/NuGet.Config"
+          "C:\\Users\\COM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
