@@ -36,10 +36,11 @@ namespace AboutVirtual
             WriteLine($"Dog maxAge : {this.maxAge}");
         }
 
-        public override void run()
-        {
-            WriteLine("dog is running...");
-        }
+        //Becase of "//", if dog Class call run Method ,  maybe call baseClass' runMethod
+        //public override void run()
+        //{
+        //    WriteLine("dog is running...");
+        //}
 
     }
 
